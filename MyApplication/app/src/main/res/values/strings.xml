@@ -1,6 +1,14 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">测试</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--登录提示-->
+    <string name="login_name">请输入用户名</string>
+    <string name="login_pasw">请输入密码</string>
+
+    <string name="log">登录</string>
+    <string name="login_up">登录</string>
+
 </resources>
