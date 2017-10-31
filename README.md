@@ -1,3 +1,3 @@
 # Garbage
 Test for git
-���д�㶫���ύһ�� 
+随便写点东西提交一下 
